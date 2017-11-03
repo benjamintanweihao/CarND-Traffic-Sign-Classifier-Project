@@ -1,2 +1,3 @@
-model_checkpoint_path: "lenet"
+model_checkpoint_path: "lenet.softmax"
 all_model_checkpoint_paths: "lenet"
+all_model_checkpoint_paths: "lenet.softmax"
