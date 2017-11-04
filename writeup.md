@@ -86,6 +86,8 @@ The number of images that were generated per class depended on the number of ima
 
 ![](./step_2_3.png)
 
+As a side note, in order to speed up preprocessing, I made use of the [`joblib`](https://pythonhosted.org/joblib/) library to run the preprocessing on all my cores.
+
 
 #### 2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
 
